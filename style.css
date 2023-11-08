@@ -15,21 +15,25 @@ body {
     text-align: left;
     position: fixed;
 }
-#navlinks{ 
+
+#navlinks {
     height: 60px;
     width: 1000px;
     padding-left: 700px;
     padding-bottom: 0;
 }
+
 button {
     background-color: #f08804;
     height: 30px;
     width: 80px;
 }
-a{
+
+a {
     margin: 50px;
-    
+
 }
+
 #logo {
     color: #f08804;
     font-size: 25px;
@@ -37,13 +41,13 @@ a{
     padding: 20px;
 }
 
-input{
+input {
     margin-top: 15px;
     height: 25px;
     font-size: 20px;
 }
 
-p{
+p {
     padding-top: 70px;
     color: black;
 }
