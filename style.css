@@ -11,7 +11,7 @@ body {
 #navbar {
     display: flex;
     height: 60px;
-    background-color: #0f1111;
+    background-color: rgb(12, 57, 147);
     text-align: left;
     position: fixed;
 }
@@ -24,7 +24,7 @@ body {
 }
 
 button {
-    background-color: #f08804;
+    background-color: #de0000;
     height: 30px;
     width: 80px;
 }
@@ -35,7 +35,7 @@ a {
 }
 
 #logo {
-    color: #f08804;
+    color: #ccbaa3;
     font-size: 25px;
     font-weight: bold;
     padding: 20px;
